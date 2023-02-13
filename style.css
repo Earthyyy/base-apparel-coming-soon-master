@@ -311,6 +311,10 @@ button[type="submit"]:hover {
         right: calc(6.375rem + 10px);
     }
 
+    #email,
+    #email::placeholder {
+        font-size: 1rem;
+    }
 
 }
 
