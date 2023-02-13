@@ -89,7 +89,7 @@ select {
 
 
 body {
-    background-color: linear-gradient(150.03deg, #FFFFFF 0%, #FFF4F4 84.51%);
+    background: linear-gradient(150.03deg, #FFFFFF 0%, #FFF4F4 84.51%);
     font-family: var(--ff-primary);
     display: flex;
     flex-direction: column;
@@ -169,6 +169,8 @@ form {
     padding: 13.5px 24px;
     color: var(--clr-neutral-dark-grayish-red);
     font-size: .875rem;
+    mix-blend-mode: normal;
+    opacity: 0.5;
 }
 
 #email::placeholder {
@@ -243,6 +245,9 @@ button[type="submit"]:hover {
         grid-template-rows: 100px auto;
         grid-template-columns: auto 42%;
         column-gap: 3.43rem;
+        background: url('./images/bg-pattern-desktop.svg'),linear-gradient(150.03deg, #FFFFFF 0%, #FFF4F4 84.51%);
+        background-size: 58% 100%, auto;
+        background-repeat: no-repeat;
     }
 
     header {
