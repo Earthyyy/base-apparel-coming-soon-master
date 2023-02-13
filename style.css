@@ -300,7 +300,8 @@ button[type="submit"]:hover {
     }
 
     button[type="submit"] {
-        padding: 19px 45px;
+        right: -2px;
+        padding: 21px 45px;
     }
 
     #email {
