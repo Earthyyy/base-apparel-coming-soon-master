@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Base Apparel Coming Soon by Earthyy](https://your-live-site-url.com)
+- Live Site URL: [Base Apparel Coming Soon by Earthyy](https://earthyy-base-apparel-coming-soon.netlify.app/)
 
 ## My process
 
